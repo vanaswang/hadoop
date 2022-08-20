@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d42f8bf8-3f3a-4702-a772-61dc19d1b829" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/LocalRepository" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.5.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bngmf9hGZRVLrz7FGm5OOPVzuV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d42f8bf8-3f3a-4702-a772-61dc19d1b829" name="Default Changelist" comment="" />
+      <created>1589273431027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589273431027</updated>
+      <workItem from="1589273432514" duration="872000" />
+      <workItem from="1589281386529" duration="1311000" />
+      <workItem from="1589286560377" duration="597000" />
+      <workItem from="1589294230344" duration="272000" />
+      <workItem from="1589330598027" duration="1725000" />
+      <workItem from="1589626905881" duration="118000" />
+      <workItem from="1589627159344" duration="226000" />
+      <workItem from="1589682129721" duration="237000" />
+      <workItem from="1589765325742" duration="67000" />
+      <workItem from="1593419374525" duration="267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1140" y="288" key="#com.intellij.ide.util.MemberChooser" timestamp="1589285224970">
+      <screen x="43" y="23" width="1749" height="1097" />
+    </state>
+    <state x="1140" y="288" key="#com.intellij.ide.util.MemberChooser/43.23.1749.1097@43.23.1749.1097" timestamp="1589285224970" />
+    <state width="1026" height="295" key="GridCell.Tab.0.bottom" timestamp="1589338883467">
+      <screen x="44" y="23" width="1748" height="1097" />
+    </state>
+    <state width="1026" height="295" key="GridCell.Tab.0.bottom/43.23.1749.1097@43.23.1749.1097" timestamp="1589285375560" />
+    <state width="1026" height="295" key="GridCell.Tab.0.bottom/44.23.1748.1097@44.23.1748.1097" timestamp="1589338883467" />
+    <state width="1026" height="295" key="GridCell.Tab.0.center" timestamp="1589338883467">
+      <screen x="44" y="23" width="1748" height="1097" />
+    </state>
+    <state width="1026" height="295" key="GridCell.Tab.0.center/43.23.1749.1097@43.23.1749.1097" timestamp="1589285375559" />
+    <state width="1026" height="295" key="GridCell.Tab.0.center/44.23.1748.1097@44.23.1748.1097" timestamp="1589338883467" />
+    <state width="1026" height="295" key="GridCell.Tab.0.left" timestamp="1589338883467">
+      <screen x="44" y="23" width="1748" height="1097" />
+    </state>
+    <state width="1026" height="295" key="GridCell.Tab.0.left/43.23.1749.1097@43.23.1749.1097" timestamp="1589285375559" />
+    <state width="1026" height="295" key="GridCell.Tab.0.left/44.23.1748.1097@44.23.1748.1097" timestamp="1589338883467" />
+    <state width="1026" height="295" key="GridCell.Tab.0.right" timestamp="1589338883467">
+      <screen x="44" y="23" width="1748" height="1097" />
+    </state>
+    <state width="1026" height="295" key="GridCell.Tab.0.right/43.23.1749.1097@43.23.1749.1097" timestamp="1589285375559" />
+    <state width="1026" height="295" key="GridCell.Tab.0.right/44.23.1748.1097@44.23.1748.1097" timestamp="1589338883467" />
+    <state x="1038" y="305" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589338720003">
+      <screen x="44" y="23" width="1748" height="1097" />
+    </state>
+    <state x="1038" y="305" key="com.intellij.testIntegration.createTest.CreateTestDialog/44.23.1748.1097@44.23.1748.1097" timestamp="1589338720003" />
+    <state x="865" y="296" width="837" height="550" key="find.popup" timestamp="1589338726440">
+      <screen x="44" y="23" width="1748" height="1097" />
+    </state>
+    <state x="865" y="296" width="837" height="550" key="find.popup/44.23.1748.1097@44.23.1748.1097" timestamp="1589338726440" />
+  </component>
+</project>

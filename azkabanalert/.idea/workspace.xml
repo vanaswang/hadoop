@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="azkabanalert:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66b04562-f7d8-466c-8a25-a8b3b352739b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/LocalRepository" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.5.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bfHb06tmC9P0ZygHTN9M0gFGuL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="azkabanalert" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66b04562-f7d8-466c-8a25-a8b3b352739b" name="Default Changelist" comment="" />
+      <created>1589016295470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589016295470</updated>
+      <workItem from="1589016302220" duration="1407000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="908" y="288" key="#com.intellij.ide.util.MemberChooser" timestamp="1589016436890">
+      <screen x="47" y="23" width="1745" height="1097" />
+    </state>
+    <state x="908" y="288" key="#com.intellij.ide.util.MemberChooser/47.23.1745.1097@47.23.1745.1097" timestamp="1589016436890" />
+    <state x="965" y="419" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589016956645">
+      <screen x="47" y="23" width="1745" height="1097" />
+    </state>
+    <state x="965" y="419" key="#com.intellij.ide.util.TreeClassChooserDialog/47.23.1745.1097@47.23.1745.1097" timestamp="1589016956645" />
+    <state x="716" y="210" key="SettingsEditor" timestamp="1589016968886">
+      <screen x="47" y="23" width="1745" height="1097" />
+    </state>
+    <state x="716" y="210" key="SettingsEditor/47.23.1745.1097@47.23.1745.1097" timestamp="1589016968886" />
+  </component>
+</project>
